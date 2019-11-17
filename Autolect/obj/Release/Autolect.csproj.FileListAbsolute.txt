@@ -1,0 +1,43 @@
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Autolect.exe.config
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Autolect.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Autolect.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Google.Apis.PlatformServices.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Google.Apis.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Google.Apis.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Google.Apis.Auth.PlatformServices.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Google.Apis.Auth.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Google.Apis.Auth.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Google.Apis.Core.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Google.Apis.Core.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Google.Apis.YouTube.v3.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Google.Apis.YouTube.v3.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Release\Newtonsoft.Json.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Autolect.csprojAssemblyReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\WindowHeader.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\Add Windows\AddRandomNumbers_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\Add Windows\AddExcel_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\Add Windows\AddManually_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\Add Windows\AddYoutube_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\LoadWidow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\MainWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\SelectRandom_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\App.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Autolect_MarkupCompile.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Autolect_MarkupCompile.lref
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\App.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\WindowHeader.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\Add Windows\AddRandomNumbers_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\Add Windows\AddExcel_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\Add Windows\AddManually_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\Add Windows\AddYoutube_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\LoadWidow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\MainWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Windows\SelectRandom_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Style.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Autolect.g.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Autolect.Properties.Resources.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Autolect.csproj.GenerateResource.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Autolect.csproj.CopyComplete
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Autolect.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Release\Autolect.pdb

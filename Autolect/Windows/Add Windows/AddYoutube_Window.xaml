@@ -1,0 +1,46 @@
+﻿<Window x:Name="window" x:Class="Autolect.AddYoutube_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autolect"
+        mc:Ignorable="d"
+        Style="{StaticResource WindowsStyle}" WindowStartupLocation="CenterScreen">
+
+    <StackPanel Orientation="Vertical">
+        <local:WindowHeader Title="Commentaires YouTube"/>
+
+        <GroupBox Header="Lien de la vidéo :" Foreground="White" Margin="5">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBox x:Name="TB_VideoLink" Width="333" Height="30" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+                <Button x:Name="BT_PastLink" Width="30" Height="30" Background="{x:Null}" BorderBrush="White" Click="BT_PastLink_Click">
+                    <Image Source="pack://application:,,,/Resources/Images/Paste.png" />
+                </Button>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Options :" Foreground="White" Margin="5">
+            <StackPanel Orientation="Vertical" Margin="5">
+                <RadioButton x:Name="RB_AddAll" Content="Ajouter tout les participants qui ont mit un commentaire" IsChecked="True" Foreground="White"/>
+                <StackPanel Orientation="Horizontal" Margin="0, 8, 0, 0">
+                    <RadioButton x:Name="RB_AddBasedComments" Content="Ajouter les participants qui ont écrit :" Foreground="White"/>
+                    <TextBox x:Name="TB_Comment" Margin="5, 0" TextWrapping="Wrap" Text="Tapez du texte" Width="134"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Que faire si un participant a mit plusieurs commentaire ? :" Foreground="White" Margin="5">
+            <StackPanel Orientation="Vertical" Margin="5">
+                <RadioButton x:Name="RB_JustOne" Content="Le compter qu'une seul fois" Margin="0,0,0,8" IsChecked="True" Foreground="White"/>
+                <RadioButton x:Name="RB_Remove" Content="Le supprimer de la liste"  Margin="0,0,0,8" Foreground="White"/>
+                <RadioButton x:Name="RB_Nothing" Content="Le compter plusieurs fois" Margin="0,0,0,0" VerticalAlignment="Top" Foreground="White"/>
+            </StackPanel>
+        </GroupBox>
+        <Button x:Name="BT_Add" Content="Ajouter" Margin="25, 8" Style="{StaticResource MainButtonStyle}" Click="BT_Add_Click" Foreground="White" BorderBrush="White">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF9E2F2F" Offset="0"/>
+                    <GradientStop Color="#FF3A0909" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,29 @@
+﻿<Window x:Class="Autolect.AddRandomNumbers_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autolect"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:myf="clr-namespace:MyFunctions.ControlsWPF;assembly=MyFunctions"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen" Width="300" Style="{StaticResource WindowsStyle}">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <local:WindowHeader Title="Nombres aléatoire"/>
+
+            <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Center">
+                <StackPanel Orientation="Vertical">
+                    <Label Content="Valeur minimal :" Foreground="White"/>
+                    <myf:NumericUpDown x:Name="NUD_Min" Min="{x:Static sys:Double.MinValue}" Max="{Binding ElementName=NUD_Max, Path=Value}"/>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <Label Content="Valeur maximal :" Foreground="White"/>
+                    <myf:NumericUpDown x:Name="NUD_Max" Min="{Binding ElementName=NUD_Min, Path=Value}" Max="{x:Static sys:Double.MaxValue}" Value="100"/>
+                </StackPanel>
+            </StackPanel>
+
+            <Button x:Name="BT_Validate" Content="Valider" Width="260" Margin="20, 10" Style="{StaticResource MainButtonStyle}" Click="BT_Validate_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,124 @@
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Autolect.exe.config
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Autolect.exe
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Autolect.pdb
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csprojResolveAssemblyReference.cache
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\MainWindow.g.cs
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\App.g.cs
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect_MarkupCompile.cache
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect_MarkupCompile.lref
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\MainWindow.baml
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.g.resources
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.Properties.Resources.resources
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csproj.GenerateResource.cache
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csproj.CoreCompileInputs.cache
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.exe
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.pdb
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\AddManually_Window.g.cs
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\AddManually_Window.baml
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\SelectRandom_Window.g.cs
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\SelectRandom_Window.baml
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.pdb
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Auth.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Auth.pdb
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Core.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Core.pdb
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Newtonsoft.Json.dll
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\AddYoutube_Window.g.cs
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\AddYoutube_Window.baml
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csproj.CopyComplete
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\LoadWidow.g.cs
+D:\Session\Bibliothèque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\LoadWidow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Autolect.exe.config
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Autolect.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Autolect.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Auth.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Auth.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Core.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Core.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\bin\Debug\Newtonsoft.Json.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csprojResolveAssemblyReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\AddManually_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\AddYoutube_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\LoadWidow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\MainWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\SelectRandom_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\App.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect_MarkupCompile.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect_MarkupCompile.lref
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\AddManually_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\AddYoutube_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\LoadWidow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\MainWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\SelectRandom_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.g.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.Properties.Resources.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csproj.GenerateResource.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csproj.CoreCompileInputs.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csproj.CopyComplete
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2017\Projects Visual Studio\C#\Autolect\Autolect\obj\Debug\Autolect.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csprojAssemblyReference.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\App.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Autolect_MarkupCompile.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Autolect_MarkupCompile.lref
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Autolect.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Autolect.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Autolect.exe.config
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Autolect.exe
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Autolect.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\MyFunctions.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Core.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Newtonsoft.Json.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\System.Management.Automation.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\VelerSoftware.FTPLib.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\MyFunctions.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\en\MyFunctions.resources.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\fr\MyFunctions.resources.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Autolect.g.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Autolect.Properties.Resources.resources
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csproj.GenerateResource.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csproj.CoreCompileInputs.cache
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Autolect.csproj.CopyComplete
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Style.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\App.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\Add Windows\AddManually_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\Add Windows\AddYoutube_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\LoadWidow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\SelectRandom_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Auth.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Auth.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.Core.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\Add Windows\AddManually_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\Add Windows\AddYoutube_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\LoadWidow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\SelectRandom_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\MainWindow.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\MainWindow.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\Add Windows\AddExcel_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\Add Windows\AddExcel_Window.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\Taramon.Exceller.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\bin\Debug\stdole.dll
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\WindowHeader.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\Add Windows\AddRandomNumbers_Window.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\WindowHeader.baml
+D:\Session\Bibliotheque\Documents\Visual Studio 2019\Projets Visual-Studio\C#\Autolect\Autolect\obj\Debug\Windows\Add Windows\AddRandomNumbers_Window.baml

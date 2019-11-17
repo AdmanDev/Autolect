@@ -1,0 +1,45 @@
+﻿<Window x:Class="Autolect.AddExcel_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autolect"
+        mc:Ignorable="d"
+        x:Name="window" Title="AddExcel_Window" WindowStartupLocation="CenterScreen" Style="{StaticResource WindowsStyle}">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <local:WindowHeader Title="Ajouter depuis un fichier Excel" />
+            <GroupBox Header="Excel infos :" Foreground="White" FontSize="16" Margin="8">
+                <StackPanel Orientation="Vertical">
+
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <Label Content="Fichier : " Foreground="Wheat"/>
+                        <TextBox x:Name="TB_FilePath" IsReadOnly="True" FontSize="12" Width="300" VerticalAlignment="Center" HorizontalContentAlignment="Center"/>
+                        <Button x:Name="BT_ChooseFile" Content="..." Margin="2,0" Style="{StaticResource SecondaryButtonStyle}" Click="BT_ChooseFile_Click"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <Label Content="Nom de la feuil : " Foreground="Wheat"/>
+                        <TextBox x:Name="TB_SheetName" Text="Feuil1" Width="200" HorizontalContentAlignment="Center"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        
+                        <StackPanel Orientation="Vertical" Margin="3">
+                            <Label Content="Cellule de début de la liste :" Foreground="Wheat"/>
+                            <TextBox x:Name="TB_StartCell" Text="A1" Margin="20,0" HorizontalContentAlignment="Center"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Vertical" Margin="3">
+                            <Label Content="Cellule de fin de la liste :" Foreground="Wheat"/>
+                            <TextBox x:Name="TB_EndCell" Text="A20" Margin="20,0" HorizontalContentAlignment="Center"/>
+                        </StackPanel>
+
+                    </StackPanel>
+                    
+                </StackPanel>
+            </GroupBox>
+
+            <Button x:Name="BT_Add" Content="Valider" Style="{StaticResource MainButtonStyle}" Margin="80, 20" Click="BT_Add_Click"/>
+        </StackPanel>        
+    </Grid>
+</Window>
