@@ -67,15 +67,29 @@ namespace Autolect
             //Stop animation
             if (curTime >= maxDuration)
             {
-                this.timer.Stop();
-                this.BT_Finish.Visibility = Visibility.Visible;
+                StopAll();
             }
 
             curTime += this.timer.Interval;
         }
 
+        //Stop animation and timer, show the winner and the finish button
+        private void StopAll()
+        {
+            this.timer.Stop();
+            this.BT_Finish.Visibility = Visibility.Visible;
+        }
+
         private void Normal_TimerTick(object sender, EventArgs e)
         {
+            if (Global.participants.Count <= 1)
+            {
+                Global.participants.Add("Aucun participant !");
+                Tick(Global.participants[0]);
+                StopAll();
+                return;
+            }
+
             //Choose a random participant
             lastParticipantIndex = currentParticipantIndex;
 

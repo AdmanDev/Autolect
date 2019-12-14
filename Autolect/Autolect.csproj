@@ -8,10 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>Autolect</RootNamespace>
     <AssemblyName>Autolect</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -209,9 +210,6 @@
     <Resource Include="Resources\Images\Paste.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Resources\dlls\VelerSoftware.FTPLib.dll" />
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedResource Include="Resources\dlls\MyFunctions.dll" />
   </ItemGroup>
   <ItemGroup>
@@ -233,6 +231,13 @@
     <Resource Include="Resources\Images\Modes Icons\EditPage Icon.png" />
     <Resource Include="Resources\Images\Modes Icons\Excel Icon.png" />
     <Resource Include="Resources\Images\Modes Icons\YouTube Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\dlls\BouncyCastle.Crypto.dll" />
+    <EmbeddedResource Include="Resources\dlls\FluentFTP.dll" />
+    <EmbeddedResource Include="Resources\dlls\Google.Protobuf.dll" />
+    <EmbeddedResource Include="Resources\dlls\MySql.Data.dll" />
+    <EmbeddedResource Include="Resources\dlls\Renci.SshNet.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

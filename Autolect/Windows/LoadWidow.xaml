@@ -9,7 +9,7 @@
     <StackPanel Orientation="Vertical" x:Name="grid">
         <Label Name="LB_Participants" Content="0 participants chargés" Background="Gainsboro" HorizontalContentAlignment="Center"/>
         
-        <myf:CircleProgress Margin="10" Mode="Loading" ShowProgress="True"/>
+        <myf:CircleProgress Margin="10 " Mode="Loading" ShowProgress="True"/>
         <Button x:Name="BT_Cancel" Content="Annuler" Margin="0"  Width="209" Height="28" Background="White" BorderBrush="Black" FontSize="16" Click="BT_Cancel_Click"/>
     </StackPanel>
 </Window>

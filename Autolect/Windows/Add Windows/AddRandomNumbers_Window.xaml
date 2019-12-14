@@ -10,7 +10,7 @@
         WindowStartupLocation="CenterScreen" Width="300" Style="{StaticResource WindowsStyle}">
     <Grid>
         <StackPanel Orientation="Vertical">
-            <local:WindowHeader Title="Nombres aléatoire"/>
+            <local:WindowHeader />
 
             <StackPanel Orientation="Horizontal" Margin="10" HorizontalAlignment="Center">
                 <StackPanel Orientation="Vertical">
